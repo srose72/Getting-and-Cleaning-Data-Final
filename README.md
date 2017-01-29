@@ -13,4 +13,6 @@ Uses dplyr, tidyr, reshape2, data.table libraries.
  Extracts the mean and standard deviation for each measurement, and uses descriptive activity names to name the activities in the dataset.
  Creates a second tidy data set with the average of each variable for each activity and subject and saves to "tidy_data.txt".
  
+ The datasets each have one column per variable and one row for each kind of observation.
+ 
  The codebook is generated from the function codebook {memisc}.
