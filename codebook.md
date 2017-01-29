@@ -1,3 +1,6 @@
+# See original variable description from the UCI HAR Dataset in the features_info.txt file and other documentation at:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 ===========================================================================
 
    timeBodyAccelerator.mean...X
