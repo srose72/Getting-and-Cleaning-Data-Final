@@ -78,4 +78,4 @@ colnames(X_tidy)[1] <- 'Activity'
 colnames(X_tidy)[2] <- 'Subject'
 
 # write tidy data set
-write.table(X_tidy,file = 'tidY_all_set.txt',row.names = F)
+write.table(X_tidy,file = 'tidY_data.txt',row.names = F)
