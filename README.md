@@ -1,5 +1,6 @@
 # Getting-and-Cleaning-Data-Final
-Uses dplyr, tidyr, reshape2, data.table libraries.
+ 
+ Uses libraries dtplyr (or seperately data.table and dplyr), tidyr, and memisc
  
  run_analysis.R cleans the data from the UC Irvine Human Activity Recognition Using Smartphones Data Set.
  Download the dataset at: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
@@ -15,4 +16,4 @@ Uses dplyr, tidyr, reshape2, data.table libraries.
  
  The datasets each have one column per variable and one row for each kind of observation.
  
- The codebook is generated from the function codebook {memisc}.
+ The codebook is generated from the function codebook {memisc} and saved as "Codebook.txt"
