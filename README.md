@@ -1,4 +1,4 @@
-# Title Change Example
+# Getting and Cleaning Data Final
 
  Uses libraries dtplyr (or seperately data.table and dplyr), tidyr, and memisc
 
